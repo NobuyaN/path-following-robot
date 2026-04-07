@@ -1,0 +1,6 @@
+.vscode/
+path_following_bringup/include/
+path_following_bringup/src/
+path_following_description/.vscode/
+path_following_sim/include/
+path_following_sim/src/
